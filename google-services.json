@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104455096119",
+    "firebase_url": "https://deliveryowlapp.firebaseio.com",
+    "project_id": "deliveryowlapp",
+    "storage_bucket": "deliveryowlapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104455096119:android:790ae5183889062d19bcb2",
+        "android_client_info": {
+          "package_name": "ru.ksuta.deliveryowlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104455096119-o7f7t4pnhuh0pqnjc24c6kbo41936lkh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.ksuta.deliveryowlapp",
+            "certificate_hash": "39f0f29ec1a649390114c2311b14f80ae6070c69"
+          }
+        },
+        {
+          "client_id": "104455096119-t2pmks99u567qu3hdmr7a58i3i12qvvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpW9dMVVwlyoTBFxq8xVr7khCiDbq4zFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104455096119-t2pmks99u567qu3hdmr7a58i3i12qvvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
