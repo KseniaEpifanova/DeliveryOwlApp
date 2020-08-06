@@ -1,7 +1,8 @@
-package ru.ksuta.deliveryowlapp
+package ru.ksuta.deliveryowlapp.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import ru.ksuta.deliveryowlapp.R
 
 class MainActivity : AppCompatActivity() {
 
